@@ -35,19 +35,22 @@ Our platform's free tier is available to everyone to get started and build excit
 
 We will be offering a special prize of **$2000 in credits** on our platform for the best project that uses Vectara in the hackathon.
 
-### Vectara resources:
+### General resources:
 * [Sign-up for Vectara](https://console.vectara.com/signup/?utm_source=event&utm_medium=hackathon&utm_term=sign-up&utm_content=TED-AI&utm_campaign=event-hackathon-sign-up-TED-AI)
-* [Documentation](https://docs.vectara.com/docs)
 * [Hacker guide](https://vectara.com/hacker-guide/)
-* [Discord server](https://discord.com/invite/GFb8gMz6UH)
-* [Blog](https://vectara.com/blog/)
-* [Demo RAG applications](https://vectara.com/demos/)
-* Open source resources: 
-  * [vectara-ingest](https://github.com/vectara/vectara-ingest) - for data ingest
-  * [vectara-answer](https://github.com/vectara/vectara-answer) - for beautiful Question-answering applications
-  * [react-chatbot](https://vectara.github.io/react-chatbot/) - integrate a Vectara chatbot in your React App.
-  * [vectara-agentic](https://pypi.org/project/vectara-agentic/) and its [docs](https://vectara.github.io/vectara-agentic-docs/), for building Agentic RAG applications.
-  * [RAGTime](https://github.com/vectara/ragtime) - build a Slack or Discord bot, powered by Vectara RAG.
+* [API Documentation](https://docs.vectara.com/docs)
+* [vectara-agentic](https://pypi.org/project/vectara-agentic/) and its [documentation](https://vectara.github.io/vectara-agentic-docs/), for building *Agentic RAG* applications.
+* [Our Discord community](https://discord.com/invite/GFb8gMz6UH)
 
-We will be adding more resources to this page. Stay tuned!
+Hallucination is a key issue with LLMs and RAG. Check out these resources about our hallucination detection model (aka HHEM):
+* [HHEM](https://huggingface.co/vectara/hallucination_evaluation_model)
+* [HHEM Leaderboard](https://huggingface.co/spaces/vectara/leaderboard)
+* HHEM [blog post](https://vectara.com/blog/hhem-2-1-a-better-hallucination-detection-model/)
+
+We have created a few open-source resources that you might find helpful:
+* [vectara-ingest](https://github.com/vectara/vectara-ingest) - for data ingest
+* [vectara-answer](https://github.com/vectara/vectara-answer) - for beautiful Question-answering applications
+* [react-chatbot](https://vectara.github.io/react-chatbot/) - integrate a Vectara chatbot in your React App.
+* [RAGTime](https://github.com/vectara/ragtime) - build a Slack or Discord bot, powered by Vectara RAG.
+
 
